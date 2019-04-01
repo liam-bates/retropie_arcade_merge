@@ -13,8 +13,6 @@ Usage: ```python3 retropie_arcade_merge.py [-h] fba mame arcade config```
 * ```arcade``` Target RetroPie arcade directory where the ROMs will be merged to.
 * ```config``` Target RetroPie emulators.cfg file to record the correct emulator for each ROM.
 
-
 ### Optional arguments
 
 * ```-h``` Show help message
-
